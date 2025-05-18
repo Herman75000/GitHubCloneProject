@@ -1,4 +1,1 @@
-The features are so awesome
-- bright
-- sharp
-- colorful
+ This is a new feature.
